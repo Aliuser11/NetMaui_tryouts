@@ -1,6 +1,4 @@
-﻿using Microsoft.Extensions.Logging;
-
-namespace FindMe
+﻿namespace FindMe
 {
     public static class MauiProgram
     {

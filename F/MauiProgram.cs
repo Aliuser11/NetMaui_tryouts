@@ -1,4 +1,6 @@
-﻿namespace MauiToDo
+﻿using Microsoft.Extensions.Logging;
+
+namespace FindMe
 {
     public static class MauiProgram
     {
